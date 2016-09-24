@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TCCFreak</string>
+    <string name="dummy_content">BEM-VINDO AO TCC FREAK!</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="edtLogin">Inserir login</string>
+    <string name="edtSenha">Inserir senha</string>
+    <string name="msgLoginInvalido">Login ou senha inválido!</string>
+    <string name="dlgSair">Sair</string>
+    <string name="msgSair">Você deseja sair?</string>
+    <string name="opNao">Não</string>
+    <string name="opSim">Sim</string>
+    <string name="msgConfiguracoes">Configurações</string>
+    <string name="msgAluno">Aluno</string>
+    <string name="msgSobre">Sobre</string>
+    <string name="msgTrabalho">Projeto</string>
+    <string name="msgSincronizar">Sincronizar</string>
+</resources>
